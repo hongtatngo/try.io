@@ -1,0 +1,33 @@
+.mstheme {
+	nav-banner-image: url(citbanna.gif); separator-image: url(citsepa.gif); list-image-1: url(citbul1a.gif); list-image-2: url(citbul2a.gif); list-image-3: url(citbul3a.gif); navbutton-horiz-pushed: url(citnavhp.gif); navbutton-horiz-normal: url(citnavha.gif); navbutton-horiz-hovered: url(citnavhh.gif); navbutton-vert-pushed: url(citnavhp.gif); navbutton-vert-normal: url(citnavha.gif); navbutton-vert-hovered: url(citnavhh.gif); navbutton-home-normal: url(cithomea.gif); navbutton-home-hovered: url(cithomeh.gif); navbutton-home-pushed: url(cithomep.gif); navbutton-up-normal: url(citupa.gif); navbutton-up-hovered: url(cituph.gif); navbutton-up-pushed: url(citupp.gif); navbutton-prev-normal: url(citbacka.gif); navbutton-prev-hovered: url(citbackh.gif); navbutton-prev-pushed: url(citbackp.gif); navbutton-next-normal: url(citnexta.gif); navbutton-next-hovered: url(citnexth.gif); navbutton-next-pushed: url(citnextp.gif)
+}
+.mstheme-bannertxt {
+	FONT-SIZE: 6px; COLOR: rgb(0,0,0); FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.mstheme-horiz-navtxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 2px; COLOR: rgb(0,0,0); FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.mstheme-vert-navtxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 2px; COLOR: rgb(0,0,0); FONT-FAMILY: Verdana, Arial, Helvetica
+}
+.mstheme-navtxthome {
+	FONT-SIZE: 1px; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica
+}
+.mstheme-navtxtup {
+	FONT-SIZE: 1px; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica
+}
+.mstheme-navtxtprev {
+	FONT-SIZE: 1px; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica
+}
+.mstheme-navtxtnext {
+	FONT-SIZE: 1px; COLOR: rgb(0,0,0); FONT-FAMILY: Arial, Helvetica
+}
+UL {
+	LIST-STYLE-IMAGE: url(image005.gif)
+}
+UL UL {
+	LIST-STYLE-IMAGE: url(image006.gif)
+}
+UL UL UL {
+	LIST-STYLE-IMAGE: url(image007.gif)
+}
